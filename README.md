@@ -2,8 +2,8 @@
 <p>perintah menjalankan tools : </p>
 <p>   pkg install python</p>
 <p>   pkg install git</p>
-<p>   git clone https://github.com/brutalGH/bot_fb</p>
-<p>   cd bot_fb</p>
+<p>   git clone https://github.com/PICKFORD-DC/bot-efbeh</p>
+<p>   cd bot-efbeh</p>
 <p>   python run.py</p>
 
 #
